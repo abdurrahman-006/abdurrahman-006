@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CSE student exploring code and creativity  <br>🌱 Currently learning C, Git, and problem solving  <br>⌨️ Learning one bug at a time  <br>🌙 Late-night coding and coffee  <br>🚀 Trying to build things that actually matter  <br>⚡ I enjoy turning ideas into real projects
+💻 CSE student exploring code and creativity  <br>⌨️ Learning one bug at a time  <br>🌙 Late-night coding and coffee  <br>🚀 Trying to build things that actually matter  <br>⚡ I enjoy turning ideas into real projects
 
 
 ## 🌐 Socials:
